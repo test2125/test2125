@@ -13,7 +13,7 @@
 
 **Growth Mindset:** Belief in developing abilities through effort.
 
-**Adaptability:** Flexible in taking on leadership or individual contributor roles based on where I can provide the most value.
+**Adaptability:** Quickly adjusts to shifting priorities and fast-paced work environments.
 
 **Attention to Detail:** Precision and care in every task.
 
