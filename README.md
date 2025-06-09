@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile!
-👋 Hi,
+👋 Hi
 
 📊 Data professional with a passion for exploring datasets and finding hidden patterns.
 
