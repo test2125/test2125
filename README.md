@@ -6,6 +6,7 @@
 
 **Adaptability:** Flexible in taking on leadership or individual contributor roles based on where I can provide the most value.
 
+## Skills and Tools :
 
 <!--
 **test2125/test2125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
