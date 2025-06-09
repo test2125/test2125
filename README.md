@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills and Tools :
 
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="120">
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="80"> <img src="https://static.vecteezy.com/system/resources/previews/005/159/022/original/microsoft-excel-icon-transparent-free-png.png" width="100">
 
 <!--
 **test2125/test2125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
