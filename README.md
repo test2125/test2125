@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills and Tools :
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="150">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150">
 
 <!--
