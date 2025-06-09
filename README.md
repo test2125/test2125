@@ -3,7 +3,7 @@
 
 📊 I am Data professional with a passion for exploring datasets and finding hidden patterns.
 
-🎓 BSc from the University, where I gained a strong foundation in problem solving and analytical thinking..
+🎓 BSc from the University, where I gained a strong foundation in problem solving and analytical thinking.
 
 ## Professional Philosophy
 
