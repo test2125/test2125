@@ -5,7 +5,7 @@
 
 🎓 BSc from the University, where I gained a strong foundation in problem solving and analytical thinking..
 
-## Professional Philosophy
+## ✨ Professional Philosophy
 
 **Continuous Learning:** Always updating skills and knowledge.
 
