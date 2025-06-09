@@ -2,7 +2,7 @@
 
 ## Professional Philosophy
 
-**Continuous Learning:** Always exploring new technologies and methodologies to stay at the forefront of data engineering.
+✨ **Continuous Learning:** Always exploring new technologies and methodologies to stay at the forefront of data engineering.
 
 **Adaptability:** Flexible in taking on leadership or individual contributor roles based on where I can provide the most value.
 
