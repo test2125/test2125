@@ -5,7 +5,7 @@
 
 🎓 BSc from the University, where I gained a strong foundation in problem solving and analytical thinking.
 
-🌱 On this GitHub, you'll find a collection of my projects that showcase my skills and my love for data analysis.
+💼 On this GitHub, you'll find a collection of my projects that showcase my skills and my love for data analysis.
 
 ## Professional Philosophy
 
