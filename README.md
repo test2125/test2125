@@ -2,7 +2,7 @@
 
 ## Professional Philosophy
 
-**Continuous Learning:** Always exploring new technologies and methodologies to stay at the forefront of data engineering.
+**Continuous Learning:** Always updating skills and knowledge.
 
 **Growth Mindset:** Belief in developing abilities through effort.
 
