@@ -6,6 +6,8 @@
 
 **Adaptability:** Flexible in taking on leadership or individual contributor roles based on where I can provide the most value.
 
+**Attention to Detail:** Precision and care in every task.
+
 ## 🛠️ Skills and Tools :
 
 
