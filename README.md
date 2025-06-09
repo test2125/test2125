@@ -12,8 +12,7 @@
 
 ## 🛠️ Skills and Tools :
 
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150">
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150">
 
 <!--
 **test2125/test2125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
